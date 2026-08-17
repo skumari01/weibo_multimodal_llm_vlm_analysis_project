@@ -1,2 +1,4 @@
 # weibo_multimodal_llm_vlm_analysis_project
 This data science project demonstrates a scalable analytics framework capable of detecting misinformation using LLMs and VLMs.
+This project includes data exploration, feature engineering, model development, training and evaluation using appropriate performance metrics, and comparative analysis with baseline approaches. It address challenges such as data heterogeneity, multimodal fusion, model scalability, explainability, and ethical considerations related to misinformation detection. 
+This project requires to collect and preprocess large-scale real-world datasets, apply big data processing techniques for efficient storage and analysis, and leverage state-of-the-art LLMs and VLMs to identify misleading, manipulated, or false content through cross-modal reasoning.
